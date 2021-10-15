@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.84.0, 2021-10-15T07:04:09. -->
+<!-- Written by QtCreator 4.84.0, 2021-10-15T07:20:19. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -296,6 +296,7 @@
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseTerminal">false</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/ignacio/Projects/gitProjects/builds/build-phonebook-Desktop_Qt_6_2_0_GCC_64bit-Debug</value>
    </valuemap>
    <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
