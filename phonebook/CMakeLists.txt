@@ -19,6 +19,9 @@ set(PROJECT_SOURCES
         phonebook.cpp
         phonebook.h
         phonebook.ui
+        editdialog.cpp
+        editdialog.h
+        editdialog.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
